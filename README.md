@@ -9,3 +9,5 @@
 dev-32/dev-32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Badges-
+[![@ayush_it32's Holopin board](https://holopin.me/ayush_it32)](https://holopin.io/@ayush_it32)

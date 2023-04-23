@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dev-32
-- 👀 I’m interested in python, App developement.
+- 👋 Hi, I’m Ayush Gupta @dev-32
+- 👀 I’m interested in python, App developement, AI & ML.
 - 😎 Into the competitive programming in C++. (platform like CodeChef username- ayush-it32)
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently IT student, python developer.
 - 💞️ I’m looking to collaborate on dev discussion.
 - 📫 How to reach me LinkedIn -> https://www.linkedin.com/in/ayush-gupta-5a8058227/
 

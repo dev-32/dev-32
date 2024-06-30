@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Pre-Final Student at Rajkiya Engineering College, Banda.<br>✅ Flutter Developer<br>✅ Machine Learning Enthusiast<br><br>Looking for ⭐️ opportunities...
+I'm a Final Student at Rajkiya Engineering College, Banda.<br>✅ Flutter Developer<br>✅ Machine Learning Enthusiast<br><br>Looking for ⭐️ opportunities...
 
 
 ## 🌐 Socials:

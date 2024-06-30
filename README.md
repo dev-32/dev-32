@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 I'm a Final Student at Rajkiya Engineering College, Banda.<br>✅ Flutter Developer<br>✅ Machine Learning Enthusiast<br><br>Looking for ⭐️ opportunities...
 
 
@@ -15,7 +15,7 @@ I'm a Final Student at Rajkiya Engineering College, Banda.<br>✅ Flutter Develo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-32&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---

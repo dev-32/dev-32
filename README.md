@@ -1,24 +1,164 @@
-About Me:
-I'm a Final Student at Rajkiya Engineering College, Banda.<br>✅ Flutter Developer<br>✅ Machine Learning Enthusiast<br><br>Looking for ⭐️ opportunities...
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to Ayush Gupta's Coding Universe!
+</h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_init_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-5a8058227/) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-32&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-32&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-32&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-32&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-gupta-5a8058227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ayushgupta"><img src="https://img.shields.io/badge/Portfolio-1ED760?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/dev-32"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-32&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🚀 About Me: Flutter Developer & Tech Enthusiast</h2>
+
+<p align="center">
+  <em>Crafting mobile experiences that delight users and solve real-world problems</em>
+</p>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
+
+- 🔭 Sharpening my Flutter skills and diving into TensorFlow
+- 🌱 Exploring advanced state management in Flutter
+- 👯 Eager to collaborate on open-source Flutter projects
+- 💬 Let's chat about Flutter, mobile dev, or cracking DSA problems!
+- 🎓 B.Tech in Information Technology (CGPA: 8.7)
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">💻 Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+<h2 align="center">🏆 Project Showcase</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Translate 🌐</h3>
+      <p>BLoC-powered translation app</p>
+      <a href="https://github.com/dev-32/translate">GitHub</a>
+    </td>
+    <td align="center">
+      <h3>Herbnook 🌿</h3>
+      <p>Secure e-commerce platform</p>
+      <a href="https://github.com/dev-32/herbnook">GitHub</a>
+    </td>
+    <td align="center">
+      <h3>Chatzen 💬</h3>
+      <p>Real-time messaging with Firebase</p>
+      <a href="https://github.com/dev-32/chat_zen">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>TaskSwift ✅</h3>
+      <p>Firebase-powered task manager</p>
+      <a href="https://github.com/dev-32/TaskSwift">GitHub</a>
+    </td>
+    <td align="center">
+      <h3>Expense Evoke 💰</h3>
+      <p>Google Sheets integrated tracker</p>
+      <a href="https://github.com/dev-32/ExpenseEvoke_google_sheets">GitHub</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">💼 Professional Journey</h2>
+
+<table align="center">
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+    <th>Key Contributions</th>
+  </tr>
+  <tr>
+    <td>Taxian</td>
+    <td>Flutter Intern</td>
+    <td>Jul - Aug 2024</td>
+    <td>OTA hotel booking, API integration</td>
+  </tr>
+  <tr>
+    <td>Cakelaya</td>
+    <td>Flutter Intern</td>
+    <td>Mar - Apr 2024</td>
+    <td>Bug fixes, Payment gateway</td>
+  </tr>
+  <tr>
+    <td>Jaroble Edutech</td>
+    <td>Flutter Intern</td>
+    <td>Oct 2023 - Jan 2024</td>
+    <td>Innovative edu-tech solutions</td>
+  </tr>
+  <tr>
+    <td>Laserpay</td>
+    <td>Flutter Developer Intern</td>
+    <td>Oct - Dec 2023</td>
+    <td>Firebase & PhonePe integration</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-32&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-32&theme=dark" alt="GitHub Streak">
+</p>
+
+---
+
+<h2 align="center">🏅 Achievements & Skills</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  620+ DSA problems solved
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+  80+ WPM typing speed (95% accuracy)
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+</p>
+
+---
+
+<h2 align="center">📫 Let's Connect and Code Together!</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em>I'm always open to interesting conversations and collaboration opportunities!</em>
+</p>
+
+<p align="center">
+  🤝 Collaborate on a project<br>
+  💡 Discuss the latest in Flutter or mobile development<br>
+  🎨 Share app design ideas<br>
+  🧠 Solve challenging coding problems together
+</p>
+
+<h3 align="center">Let's create something amazing together! 🚀</h3>

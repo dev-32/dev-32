@@ -28,7 +28,7 @@
 - 🌱 Exploring advanced state management in Flutter
 - 👯 Eager to collaborate on open-source Flutter projects
 - 💬 Let's chat about Flutter, mobile dev, or cracking DSA problems!
-- 🎓 B.Tech in Information Technology (CGPA: 8.7)
+- 🎓 B.Tech in Information Technology
 
 <br clear="right"/>
 

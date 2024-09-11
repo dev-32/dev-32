@@ -55,12 +55,12 @@
     <td align="center">
       <h3>Translate 🌐</h3>
       <p>BLoC-powered translation app</p>
-      <a href="https://github.com/dev-32/translate">GitHub</a>
+      <a href="https://github.com/dev-32/translate_flutter">GitHub</a>
     </td>
     <td align="center">
       <h3>Herbnook 🌿</h3>
       <p>Secure e-commerce platform</p>
-      <a href="https://github.com/dev-32/herbnook">GitHub</a>
+      <a href="https://github.com/dev-32/herbnook_phase1">GitHub</a>
     </td>
     <td align="center">
       <h3>Chatzen 💬</h3>

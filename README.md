@@ -97,7 +97,7 @@
   <tr>
     <td>Taxian</td>
     <td>Flutter Intern</td>
-    <td>Jul - Aug 2024</td>
+    <td>Jul - Sept 2024</td>
     <td>OTA hotel booking, API integration</td>
   </tr>
   <tr>
